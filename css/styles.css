@@ -179,7 +179,7 @@ section.best-sellers {
     padding-top: 80px;
 }
 
-section.best-sellers h1 {
+section.best-sellers h2 {
     text-align: center;
     font-size: 34px;
     letter-spacing: 0.85px;
@@ -291,7 +291,7 @@ section.best-sellers .product-slider .product .product-info .price .discounted-p
 }
 
 section.best-sellers .product-slider .product .product-info .price .original-price {
-    color: #9B9B9B;
+    color: #000000;
     font-weight: normal;
     font-size: 16px;
     letter-spacing: 0.4px;
@@ -492,7 +492,7 @@ footer .copyright-text {
         padding-top: 50px;
     }
     
-    section.best-sellers h1 {
+    section.best-sellers h2 {
         font-size: 28px;
         letter-spacing: 0.7px;
         line-height: 38px;
@@ -644,7 +644,7 @@ footer .copyright-text {
         max-width: 360px;
     }
 
-    section.best-sellers h1 {
+    section.best-sellers h2 {
         font-size: 36px;
         letter-spacing: 0.6px;
         line-height: 38px;
