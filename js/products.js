@@ -1,5 +1,5 @@
 async function loadProducts() {
-    const response = await fetch("https://api.escuelajs.co/api/v1/products?offset=0&limit=24");
+    const response = await fetch("https://api.escuelajs.co/api/v1/products?offset=0&limit=10");
     const products = await response.json();
     displayProducts(products);  
 }
